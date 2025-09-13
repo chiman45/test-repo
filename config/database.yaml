@@ -3,6 +3,6 @@ database:
   port: 5432
   username: admin
   password: secret
-  options
+  options:
     pool_size: 5
     timeout: 30
