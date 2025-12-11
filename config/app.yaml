@@ -1,4 +1,4 @@
-app:
-  name: test-app
+app
+name: test-app
   version: 1.0.0
 debug: true
